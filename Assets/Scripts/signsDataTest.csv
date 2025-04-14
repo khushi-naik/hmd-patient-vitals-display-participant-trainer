@@ -1,0 +1,5 @@
+name,value,condition
+a,high,good
+b,low,bad
+c,very low,static
+d,very high,very good
